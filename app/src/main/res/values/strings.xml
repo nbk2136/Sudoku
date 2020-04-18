@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sudoku</string>
+    <string name="shooting">撮影</string>
+    <string name="decipher">解読</string>
+</resources>

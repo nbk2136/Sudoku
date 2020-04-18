@@ -1,0 +1,1 @@
+include ':app', ':java', 'openCVLibrary401', ':tess-two', ':tess-two-test'
